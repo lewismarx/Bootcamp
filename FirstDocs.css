@@ -1,0 +1,22 @@
+h1 {color : #89ff65;
+    background: #d59c4d;
+    border-color: #d57f06;
+    border-style: groove;
+    border-width: 13px;
+    padding: 10px;
+
+}
+h6 {color : #ff66d0;
+    background: #04d5c6;
+    border-color: cadetblue;
+    border-style: ridge;
+    border-width: 7px;
+    padding: 8px;
+}
+ul {color: #ff110e}
+ol {color: #0200ff}
+a {color: #ff8b20}
+i {color: darkcyan}
+p {color: deeppink}
+.greentext {color: green}
+#browntext {color: brown}
